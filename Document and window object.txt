@@ -1,0 +1,47 @@
+Document object:
+
+All HTML elements are stored in form of documents.
+
+document object gives all HTML element access.
+
+When we open a HTML file in browser it will show all HTML elements in a document format.
+
+By using document we can do alot of things like changing the background color,changing the style of the html element,we can get the element values and also validate the input's.
+
+Document is a child object of the window object.
+
+document object /DOM model is used validate the input form the user and also we can get the specific id/class values using DOM 
+
+By using document we can change the HTML element values by using [ "document.getElementById("id").innerHTML = text;" ]
+
+(document.getElementById()) using this we can get the value of the particular id.
+
+(document.getElementsByName()) using this we can get the value from the particular element.
+
+(document.getElementsByClassName()) using this we can get the value for that particular element value using class name.
+
+Window object:
+
+Window object is global object in javascript.
+
+Window object support all browser.
+
+Global variables and fuction are the properties of the window object.
+
+Window object have all function of the javascript.
+
+using this window object we can change/add  the html elements,style with use only the Javascript.
+
+Window.object have multiple properties
+
+Window.alert(); => Showing the alert pop.
+
+window.open(); => it open a new page or site using the url.
+
+window.closed(); => current window is closed or not.
+
+window.location(); => It open a new page in same tab or new tab.
+
+like this window.object have many more properties.
+
+
